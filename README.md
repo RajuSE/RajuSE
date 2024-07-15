@@ -9,8 +9,8 @@
 <h4 align="left" ><span style="font-family:Nunito; font-size:1em;">Let's connect! Find me on the web</span></h3>
 
 <a href="https://www.linkedin.com/in/raju10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<a href="https://www.youtube.com/@devxraju" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
-<a href="https://www.youtube.com/@devxraju" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC_RvrCPBAz1iMbcGqK70nRA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
+<a href="https://www.youtube.com/@devxraju?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
+<a href="https://www.youtube.com/@devxraju?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC_RvrCPBAz1iMbcGqK70nRA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
 </br>
 
 
