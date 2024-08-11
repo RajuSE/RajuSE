@@ -43,6 +43,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-000?&logo=MySQL)](https://www.mysql.com)
 [![Firebase](https://img.shields.io/badge/Firebase-000?&logo=Firebase&logoColor=yellow)](https://firebase.google.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)   
+![Jira](https://img.shields.io/badge/Jira-000?&logo=Jira)
 [![Git](https://img.shields.io/badge/Git-000?&logo=Git)](https://git-scm.com)  
 [![CodeMagic](https://img.shields.io/badge/CodeMagic-000?&logo=CodeMagic)](https://codemagic.io/start/)
 [![Bitrise](https://img.shields.io/badge/Bitrise-000?&logo=Bitrise)](https://www.bitrise.io)
