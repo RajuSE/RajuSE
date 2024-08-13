@@ -61,4 +61,11 @@
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?&logo=GoogleCloud)](https://cloud.google.com)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=DigitalOcean)](https://www.digitalocean.com)  
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=RajuSE&icon=1&color=12)](https://visitcount.itsvg.in)
+
 <h4 align="center"><i>Learn and grow together!</i></h4>
