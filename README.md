@@ -1,5 +1,6 @@
 <h4><span style="font-family:Nunito; font-size:1em;">Hi! I'm Raju Ugale</h4></span>
 
+
 <h3 align="centre">
 <span style="font-family:Nunito; font-size:0.5em;">Multidisciplinary app developer with over a decade of extensive expertise in development of native and cross platform mobile applications. I believe in the power of sharing knowledge and I am excited to connect with fellow developers and enthusiasts in the app development community. So, if you are interested in learning more about app development and coding, make sure to subscribe to my channel and hit the notification bell so you never miss an update.
 </span>
@@ -12,9 +13,11 @@
 <a href="https://www.youtube.com/@devxraju?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
 <a href="https://www.youtube.com/@devxraju?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC_RvrCPBAz1iMbcGqK70nRA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
 </br>
-
+</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---  
+
 <h3>Programming Languages</h3>
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?&logo=Kotlin)](https://kotlinlang.org)
@@ -61,11 +64,8 @@
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?&logo=GoogleCloud)](https://cloud.google.com)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=DigitalOcean)](https://www.digitalocean.com)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
----
 [![](https://visitcount.itsvg.in/api?id=RajuSE&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<h4 align="center"><i>Learn and grow together!</i></h4>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
