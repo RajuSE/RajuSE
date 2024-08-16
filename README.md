@@ -1,5 +1,4 @@
-<h4><span style="font-family:Nunito; font-size:1em;">Hi! I'm Raju Ugale</h4></span>
-
+<h1 align="center">Hi 👋, I'm Raju Ugale</h1>
 
 <h3 align="centre">
 <span style="font-family:Nunito; font-size:0.5em;">Multidisciplinary app developer with over a decade of extensive expertise in development of native and cross platform mobile applications. I believe in the power of sharing knowledge and I am excited to connect with fellow developers and enthusiasts in the app development community. So, if you are interested in learning more about app development and coding, make sure to subscribe to my channel and hit the notification bell so you never miss an update.
@@ -69,3 +68,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajuSE&" alt="RajuSE" /></p>
