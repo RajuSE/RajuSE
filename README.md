@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Raju Ugale</h1>
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>
+
+<h3 align="center">Hi 👋, I'm Raju Ugale</h3>
 
 <h3 align="centre">
-<span style="font-family:Nunito; font-size:0.5em;">Multidisciplinary app developer with over a decade of extensive expertise in development of native and cross platform mobile applications. I believe in the power of sharing knowledge and I am excited to connect with fellow developers and enthusiasts in the app development community. So, if you are interested in learning more about app development and coding, make sure to subscribe to my channel and hit the notification bell so you never miss an update.
-</span>
+<span style="font-family:Nunito; font-size:0.5em;">Multidisciplinary app developer with over a decade of extensive expertise in development of native and cross platform mobile applications. I believe in the power of sharing knowledge and I am excited to connect with fellow developers and enthusiasts in the app development community. So, if you are interested in learning more about app development and coding, make sure to subscribe to my channel and hit the notification bell so you never miss an update.</span>
   
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>  
 </h4>
 
 <h4 align="left" ><span style="font-family:Nunito; font-size:1em;">Let's connect! Find me on the web</span></h3>
@@ -15,7 +21,25 @@
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----  
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>  
+
+<div align=start>
+   <a href="https://www.youtube.com/@devXRaju">
+   <img width=30% height=30% align="center" alt="Youtube" src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=e3d20c&center=true&vCenter=true&width=250%&lines=Watch+some+of+my+videos+?" />
+   </a>
+   
+<!-- YOUTUBE:START -->
+[![AndroidTV+App+Development+CatsApp+source+code+Kotlin](https://ytcards.demolab.com/?id=8Si4lu59z64&title=AndroidTV+App+Development+CatsApp+source+code+Kotlin&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AndroidTV+App+Development+CatsApp+source+code+Kotlin")](https://www.youtube.com/watch?v=8Si4lu59z64) &nbsp; &nbsp;
+[![Duolingo+Clone+-+KMP+KMM+Compose+multiplatform+project+demo](https://ytcards.demolab.com/?id=ImGuVPpV4LY&title=Duolingo+Clone+-+KMP+KMM+Compose+multiplatform+project+demo&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Duolingo+Clone+-+KMP+KMM+Compose+multiplatform+project+demo")](https://www.youtube.com/watch?v=ImGuVPpV4LY) &nbsp; &nbsp;
+[![CatsApp+source+code+-+MVVM+Kotlin+Clean+architecture](https://ytcards.demolab.com/?id=1iGYd-6je9M&title=CatsApp+source+code+-+MVVM+Kotlin+Clean+architecture&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CatsApp+source+code+-+MVVM+Kotlin+Clean+architecture")](https://www.youtube.com/watch?v=1iGYd-6je9M) &nbsp; &nbsp;
+[![Flutter+Provider,+State+Management,+DI,+UI+Testing](https://ytcards.demolab.com/?id=lnY5EB3Xf_Q&title=Flutter+Provider,+State+Management,+DI,+UI+Testing&background_color=%230d1117&title_color=%2339FF14&timestamp=&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Flutter+Provider,+State+Management,+DI,+UI+Testing")](https://www.youtube.com/watch?v=lnY5EB3Xf_Q)<!-- YOUTUBE:END -->
+
+</div>
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>  
 
 <h3>Programming Languages</h3>
 
@@ -65,8 +89,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=RajuSE&icon=1&color=12)](https://visitcount.itsvg.in)
 
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajuSE&" alt="RajuSE" /></p>
+<div align=center>
+   <img height=50 width=100% src="https://github.com/RajuSE/RajuSE/blob/RajuSE-Feature/colored.gif">
+</div>
+
+&nbsp;
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajuSE&theme=dark&" alt="RajuSE" /></p>
+
